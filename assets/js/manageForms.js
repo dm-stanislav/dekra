@@ -1,1 +1,1 @@
-const manageForms=o=>o.ok;
+window.manageForms=o=>o.ok;
